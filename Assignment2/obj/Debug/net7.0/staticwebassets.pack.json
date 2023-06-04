@@ -1,0 +1,2061 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Assignment2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\accordions.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\accordions.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\alerts.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\alerts.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\buttons.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\buttons.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\c3\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\calendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\calendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\calendar\\fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\calendar\\fullcalendar.print.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\chosen\\bootstrap-chosen.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\chosen\\bootstrap-chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\Admin\\css\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\code-editor\\ambiance.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\code-editor\\ambiance.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\code-editor\\codemirror.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\code-editor\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\colorpicker\\colorpicker.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\colorpicker\\colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\cropper\\cropper.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\cropper\\cropper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\data-table\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\data-table\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\data-table\\bootstrap-table.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\data-table\\bootstrap-table.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\datapicker\\colorpicker.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\datapicker\\colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\datapicker\\datepicker3.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\datapicker\\datepicker3.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\duallistbox\\bootstrap-duallistbox.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\duallistbox\\bootstrap-duallistbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\editor\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\editor\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\editor\\datetimepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\editor\\datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\editor\\select2.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\editor\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\editor\\x-editor-style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\editor\\x-editor-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\educate-custon-icon.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\educate-custon-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\form.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\form\\all-type-forms.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\form\\all-type-forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\form\\themesaller-forms.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\form\\themesaller-forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\ionRangeSlider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\ionRangeSlider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\ionRangeSlider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\ionRangeSlider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\ionRangeSlider\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\Admin\\css\\ionRangeSlider\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\metisMenu\\metisMenu-vertical.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\metisMenu\\metisMenu-vertical.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\metisMenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\metisMenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\metisMenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\metisMenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\modals.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\modals.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\morrisjs\\morris.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\morrisjs\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\notifications\\Lobibox.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\notifications\\Lobibox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\notifications\\notifications.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\notifications\\notifications.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\owl.transitions.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\preloader\\preloader-style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\preloader\\preloader-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\scrollbar\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\scrollbar\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\summernote\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\Admin\\css\\summernote\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\summernote\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Admin\\css\\summernote\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\summernote\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\Admin\\css\\summernote\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\summernote\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\tabs.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\tree-viewer\\32px.png",
+      "PackagePath": "staticwebassets\\Admin\\css\\tree-viewer\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\tree-viewer\\throbber.gif",
+      "PackagePath": "staticwebassets\\Admin\\css\\tree-viewer\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\css\\tree-viewer\\tree-viewer.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\tree-viewer\\tree-viewer.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\educate-icon.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\educate-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\educate-icon.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\educate-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\educate-icon.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\educate-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\blog-details\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\blog-details\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\clear.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\clear.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\contact\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\contact\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\contact\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\contact\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\contact\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\contact\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\contact\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\contact\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\courses\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\courses\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\courses\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\courses\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\cropper\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\cropper\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\green1.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\green1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\Admin\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\logo\\logosn.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\logo\\logosn.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\notification\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\notification\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\notification\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\notification\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\notification\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\notification\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\notification\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\notification\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\notification\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\notification\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\notification\\6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\notification\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\product\\book-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\product\\book-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\product\\book-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\product\\book-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\product\\book-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\product\\book-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\product\\book-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\product\\book-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\product\\pro4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\product\\pro4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\product\\profile-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\product\\profile-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\profile\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\profile\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\student\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\student\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\student\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\student\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\student\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\student\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\img\\student\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\student\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\c3-charts\\c3-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\c3-charts\\c3-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\c3-charts\\c3.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\c3-charts\\c3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\c3-charts\\d3.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\c3-charts\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\calendar\\fullcalendar-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\calendar\\fullcalendar-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\card.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\card.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\chart\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\chart\\peity-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart\\peity-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\charts\\Chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\charts\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\charts\\area-chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\charts\\area-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\charts\\bar-chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\charts\\bar-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\charts\\line-chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\charts\\line-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\charts\\rounded-chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\charts\\rounded-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\chosen\\chosen-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chosen\\chosen-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\code-editor\\code-editor-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\code-editor\\code-editor-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\code-editor\\code-editor.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\code-editor\\code-editor.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\code-editor\\codemirror.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\code-editor\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\colorpicker\\color-picker-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\colorpicker\\color-picker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\colorpicker\\jquery.spectrum.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\colorpicker\\jquery.spectrum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\counterup\\counterup-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\counterup\\counterup-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\counterup\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\counterup\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\cropper\\cropper-actice.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\cropper\\cropper-actice.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\cropper\\cropper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\cropper\\cropper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-map\\d3.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-map\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-map\\data-maps-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-map\\data-maps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-map\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-map\\datamaps.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-map\\topojson.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-map\\topojson.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-table\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table\\bootstrap-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-table\\bootstrap-table-editable.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table\\bootstrap-table-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-table\\bootstrap-table-export.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table\\bootstrap-table-export.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-table\\bootstrap-table-resizable.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table\\bootstrap-table-resizable.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-table\\bootstrap-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table\\bootstrap-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-table\\colResizable-1.5.source.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table\\colResizable-1.5.source.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-table\\data-table-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table\\data-table-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\data-table\\tableExport.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table\\tableExport.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\datapicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\datapicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\datapicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\datapicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\datapicker\\datepicker-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\datapicker\\datepicker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\datepicker\\datepicker-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\datepicker\\datepicker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\datepicker\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\datepicker\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\duallistbox\\duallistbox.active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\duallistbox\\duallistbox.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\duallistbox\\jquery.bootstrap-duallistbox.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\duallistbox\\jquery.bootstrap-duallistbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\e-payment.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\e-payment.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\editable\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\editable\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\editable\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\editable\\bootstrap-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\editable\\jquery.mockjax.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\editable\\jquery.mockjax.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\editable\\mock-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\editable\\mock-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\editable\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\editable\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\editable\\select2.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\editable\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\editable\\xediable-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\editable\\xediable-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\form-validation\\form-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\form-validation\\form-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\form-validation\\jquery.form.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\form-validation\\jquery.form.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\form-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\form-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\google.maps\\google.maps-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\google.maps\\google.maps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\icheck\\icheck-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\icheck\\icheck-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\icheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\icheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\input-mask\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\input-mask\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\ionRangeSlider\\ion.rangeSlider.active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ionRangeSlider\\ion.rangeSlider.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\ionRangeSlider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ionRangeSlider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\jquery-price-slider.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery-price-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\jquery.payform.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.payform.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\knob\\knob-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\knob\\knob-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\masking-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\masking-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\metisMenu\\metisMenu-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\metisMenu\\metisMenu-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\metisMenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\metisMenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\metisMenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\js\\metisMenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\morrisjs\\home3-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\morrisjs\\home3-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\morrisjs\\morris-active-pro.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\morrisjs\\morris-active-pro.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\morrisjs\\morris-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\morrisjs\\morris-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\morrisjs\\morris.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\morrisjs\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\morrisjs\\raphael-min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\morrisjs\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\multiple-email\\multiple-email-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\multiple-email\\multiple-email-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\notifications\\Lobibox.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\notifications\\Lobibox.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\notifications\\notification-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\notifications\\notification-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\password-meter\\password-meter-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\password-meter\\password-meter-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\password-meter\\pwstrength-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\password-meter\\pwstrength-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\password-meter\\zxcvbn.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\password-meter\\zxcvbn.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\pdf\\jquery.media.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\pdf\\jquery.media.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\pdf\\pdf-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\pdf\\pdf-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\peity\\peity-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\peity\\peity-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\rangle-slider\\jquery-ui-touch-punch.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\rangle-slider\\jquery-ui-touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\rangle-slider\\rangle-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\rangle-slider\\rangle-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\scrollbar\\mCustomScrollbar-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\scrollbar\\mCustomScrollbar-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\select2\\select2-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\select2\\select2-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\sparkline\\jquery.charts-sparkline.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sparkline\\jquery.charts-sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\sparkline\\sparkline-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sparkline\\sparkline-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\summernote\\summernote-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\summernote\\summernote-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\tab.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\tawk-chat.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tawk-chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\touchspin\\touchspin-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\touchspin\\touchspin-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\tree-line\\jstree.active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tree-line\\jstree.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\tree-line\\jstree.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tree-line\\jstree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\vendor\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\vendor\\modernizr-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\wizard\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\wizard\\jquery.steps.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\wizard\\steps-active.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\wizard\\steps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\pdf\\mamunur.pdf",
+      "PackagePath": "staticwebassets\\Admin\\pdf\\mamunur.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\Admin\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\accordions.css",
+      "PackagePath": "staticwebassets\\css\\accordions.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\alerts.css",
+      "PackagePath": "staticwebassets\\css\\alerts.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\buttons.css",
+      "PackagePath": "staticwebassets\\css\\buttons.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\css\\c3\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\calendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\css\\calendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\calendar\\fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets\\css\\calendar\\fullcalendar.print.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\chosen\\bootstrap-chosen.css",
+      "PackagePath": "staticwebassets\\css\\chosen\\bootstrap-chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\css\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\code-editor\\ambiance.css",
+      "PackagePath": "staticwebassets\\css\\code-editor\\ambiance.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\code-editor\\codemirror.css",
+      "PackagePath": "staticwebassets\\css\\code-editor\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\colorpicker\\colorpicker.css",
+      "PackagePath": "staticwebassets\\css\\colorpicker\\colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\cropper\\cropper.min.css",
+      "PackagePath": "staticwebassets\\css\\cropper\\cropper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\data-table\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\css\\data-table\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\data-table\\bootstrap-table.css",
+      "PackagePath": "staticwebassets\\css\\data-table\\bootstrap-table.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\datapicker\\colorpicker.css",
+      "PackagePath": "staticwebassets\\css\\datapicker\\colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\datapicker\\datepicker3.css",
+      "PackagePath": "staticwebassets\\css\\datapicker\\datepicker3.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\css\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\duallistbox\\bootstrap-duallistbox.min.css",
+      "PackagePath": "staticwebassets\\css\\duallistbox\\bootstrap-duallistbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\editor\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\css\\editor\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\editor\\datetimepicker.css",
+      "PackagePath": "staticwebassets\\css\\editor\\datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\editor\\select2.css",
+      "PackagePath": "staticwebassets\\css\\editor\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\editor\\x-editor-style.css",
+      "PackagePath": "staticwebassets\\css\\editor\\x-editor-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\educate-custon-icon.css",
+      "PackagePath": "staticwebassets\\css\\educate-custon-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\form\\all-type-forms.css",
+      "PackagePath": "staticwebassets\\css\\form\\all-type-forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\form\\themesaller-forms.css",
+      "PackagePath": "staticwebassets\\css\\form\\themesaller-forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\ionRangeSlider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\css\\ionRangeSlider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\ionRangeSlider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\css\\ionRangeSlider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\ionRangeSlider\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\css\\ionRangeSlider\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\metisMenu\\metisMenu-vertical.css",
+      "PackagePath": "staticwebassets\\css\\metisMenu\\metisMenu-vertical.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\metisMenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\css\\metisMenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\metisMenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\css\\metisMenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\modals.css",
+      "PackagePath": "staticwebassets\\css\\modals.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\morrisjs\\morris.css",
+      "PackagePath": "staticwebassets\\css\\morrisjs\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\notifications\\Lobibox.min.css",
+      "PackagePath": "staticwebassets\\css\\notifications\\Lobibox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\notifications\\notifications.css",
+      "PackagePath": "staticwebassets\\css\\notifications\\notifications.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\css\\owl.transitions.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\preloader\\preloader-style.css",
+      "PackagePath": "staticwebassets\\css\\preloader\\preloader-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\scrollbar\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\scrollbar\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\summernote\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\css\\summernote\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\summernote\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\css\\summernote\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\summernote\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\css\\summernote\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\css\\summernote\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\tabs.css",
+      "PackagePath": "staticwebassets\\css\\tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\css\\touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\tree-viewer\\32px.png",
+      "PackagePath": "staticwebassets\\css\\tree-viewer\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\tree-viewer\\throbber.gif",
+      "PackagePath": "staticwebassets\\css\\tree-viewer\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\css\\tree-viewer\\tree-viewer.css",
+      "PackagePath": "staticwebassets\\css\\tree-viewer\\tree-viewer.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\educate-icon.svg",
+      "PackagePath": "staticwebassets\\fonts\\educate-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\educate-icon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\educate-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\educate-icon.woff",
+      "PackagePath": "staticwebassets\\fonts\\educate-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\blog-details\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-details\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\clear.png",
+      "PackagePath": "staticwebassets\\img\\clear.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\contact\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\contact\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\contact\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\contact\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\contact\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\contact\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\contact\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\contact\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\courses\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\courses\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\courses\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\courses\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\courses\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\courses\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\cropper\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\cropper\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\green1.png",
+      "PackagePath": "staticwebassets\\img\\green1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\logo\\logosn.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logosn.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\notification\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\notification\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\notification\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\notification\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\notification\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\notification\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\notification\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\notification\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\notification\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\notification\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\notification\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\notification\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\product\\book-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\product\\book-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\product\\book-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\product\\book-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\product\\pro4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pro4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\product\\profile-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\profile-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\profile\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\profile\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\student\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\student\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\student\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\student\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\student\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\student\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\img\\student\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\student\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\c3-charts\\c3-active.js",
+      "PackagePath": "staticwebassets\\js\\c3-charts\\c3-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\c3-charts\\c3.min.js",
+      "PackagePath": "staticwebassets\\js\\c3-charts\\c3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\c3-charts\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\c3-charts\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\calendar\\fullcalendar-active.js",
+      "PackagePath": "staticwebassets\\js\\calendar\\fullcalendar-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\js\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\card.js",
+      "PackagePath": "staticwebassets\\js\\card.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\chart\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\js\\chart\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\chart\\peity-active.js",
+      "PackagePath": "staticwebassets\\js\\chart\\peity-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\charts\\Chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\charts\\area-chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\area-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\charts\\bar-chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\bar-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\charts\\line-chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\line-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\charts\\rounded-chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\rounded-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\chosen\\chosen-active.js",
+      "PackagePath": "staticwebassets\\js\\chosen\\chosen-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\js\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\code-editor\\code-editor-active.js",
+      "PackagePath": "staticwebassets\\js\\code-editor\\code-editor-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\code-editor\\code-editor.js",
+      "PackagePath": "staticwebassets\\js\\code-editor\\code-editor.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\code-editor\\codemirror.js",
+      "PackagePath": "staticwebassets\\js\\code-editor\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\colorpicker\\color-picker-active.js",
+      "PackagePath": "staticwebassets\\js\\colorpicker\\color-picker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\colorpicker\\jquery.spectrum.min.js",
+      "PackagePath": "staticwebassets\\js\\colorpicker\\jquery.spectrum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\counterup\\counterup-active.js",
+      "PackagePath": "staticwebassets\\js\\counterup\\counterup-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\counterup\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\counterup\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\cropper\\cropper-actice.js",
+      "PackagePath": "staticwebassets\\js\\cropper\\cropper-actice.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\cropper\\cropper.min.js",
+      "PackagePath": "staticwebassets\\js\\cropper\\cropper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-map\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\data-map\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-map\\data-maps-active.js",
+      "PackagePath": "staticwebassets\\js\\data-map\\data-maps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-map\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\js\\data-map\\datamaps.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-map\\topojson.js",
+      "PackagePath": "staticwebassets\\js\\data-map\\topojson.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-table\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-table\\bootstrap-table-editable.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-table-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-table\\bootstrap-table-export.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-table-export.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-table\\bootstrap-table-resizable.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-table-resizable.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-table\\bootstrap-table.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-table\\colResizable-1.5.source.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\colResizable-1.5.source.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-table\\data-table-active.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\data-table-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\data-table\\tableExport.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\tableExport.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\datapicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\datapicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\datapicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\datapicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\datapicker\\datepicker-active.js",
+      "PackagePath": "staticwebassets\\js\\datapicker\\datepicker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\datepicker\\datepicker-active.js",
+      "PackagePath": "staticwebassets\\js\\datepicker\\datepicker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\datepicker\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\datepicker\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\js\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\duallistbox\\duallistbox.active.js",
+      "PackagePath": "staticwebassets\\js\\duallistbox\\duallistbox.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\duallistbox\\jquery.bootstrap-duallistbox.js",
+      "PackagePath": "staticwebassets\\js\\duallistbox\\jquery.bootstrap-duallistbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\e-payment.js",
+      "PackagePath": "staticwebassets\\js\\e-payment.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\editable\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\js\\editable\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\editable\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\js\\editable\\bootstrap-editable.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\editable\\jquery.mockjax.js",
+      "PackagePath": "staticwebassets\\js\\editable\\jquery.mockjax.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\editable\\mock-active.js",
+      "PackagePath": "staticwebassets\\js\\editable\\mock-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\editable\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\editable\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\editable\\select2.js",
+      "PackagePath": "staticwebassets\\js\\editable\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\editable\\xediable-active.js",
+      "PackagePath": "staticwebassets\\js\\editable\\xediable-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\form-validation\\form-active.js",
+      "PackagePath": "staticwebassets\\js\\form-validation\\form-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\form-validation\\jquery.form.min.js",
+      "PackagePath": "staticwebassets\\js\\form-validation\\jquery.form.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\form-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\form-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\google.maps\\google.maps-active.js",
+      "PackagePath": "staticwebassets\\js\\google.maps\\google.maps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\icheck\\icheck-active.js",
+      "PackagePath": "staticwebassets\\js\\icheck\\icheck-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\icheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\js\\icheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\input-mask\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\input-mask\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\ionRangeSlider\\ion.rangeSlider.active.js",
+      "PackagePath": "staticwebassets\\js\\ionRangeSlider\\ion.rangeSlider.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\ionRangeSlider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\js\\ionRangeSlider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\jquery-price-slider.js",
+      "PackagePath": "staticwebassets\\js\\jquery-price-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\jquery.payform.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.payform.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\js\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\knob\\knob-active.js",
+      "PackagePath": "staticwebassets\\js\\knob\\knob-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\masking-active.js",
+      "PackagePath": "staticwebassets\\js\\masking-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\metisMenu\\metisMenu-active.js",
+      "PackagePath": "staticwebassets\\js\\metisMenu\\metisMenu-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\metisMenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\js\\metisMenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\metisMenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\js\\metisMenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\morrisjs\\home3-active.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\home3-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\morrisjs\\morris-active-pro.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\morris-active-pro.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\morrisjs\\morris-active.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\morris-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\morrisjs\\morris.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\morrisjs\\raphael-min.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\multiple-email\\multiple-email-active.js",
+      "PackagePath": "staticwebassets\\js\\multiple-email\\multiple-email-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\notifications\\Lobibox.js",
+      "PackagePath": "staticwebassets\\js\\notifications\\Lobibox.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\notifications\\notification-active.js",
+      "PackagePath": "staticwebassets\\js\\notifications\\notification-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\password-meter\\password-meter-active.js",
+      "PackagePath": "staticwebassets\\js\\password-meter\\password-meter-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\password-meter\\pwstrength-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\password-meter\\pwstrength-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\password-meter\\zxcvbn.js",
+      "PackagePath": "staticwebassets\\js\\password-meter\\zxcvbn.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\pdf\\jquery.media.js",
+      "PackagePath": "staticwebassets\\js\\pdf\\jquery.media.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\pdf\\pdf-active.js",
+      "PackagePath": "staticwebassets\\js\\pdf\\pdf-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\js\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\peity\\peity-active.js",
+      "PackagePath": "staticwebassets\\js\\peity\\peity-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js",
+      "PackagePath": "staticwebassets\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\rangle-slider\\jquery-ui-touch-punch.min.js",
+      "PackagePath": "staticwebassets\\js\\rangle-slider\\jquery-ui-touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\rangle-slider\\rangle-active.js",
+      "PackagePath": "staticwebassets\\js\\rangle-slider\\rangle-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\scrollbar\\mCustomScrollbar-active.js",
+      "PackagePath": "staticwebassets\\js\\scrollbar\\mCustomScrollbar-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\select2\\select2-active.js",
+      "PackagePath": "staticwebassets\\js\\select2\\select2-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\js\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\sparkline\\jquery.charts-sparkline.js",
+      "PackagePath": "staticwebassets\\js\\sparkline\\jquery.charts-sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\js\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\sparkline\\sparkline-active.js",
+      "PackagePath": "staticwebassets\\js\\sparkline\\sparkline-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\summernote\\summernote-active.js",
+      "PackagePath": "staticwebassets\\js\\summernote\\summernote-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\js\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\tab.js",
+      "PackagePath": "staticwebassets\\js\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\tawk-chat.js",
+      "PackagePath": "staticwebassets\\js\\tawk-chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\js\\touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\touchspin\\touchspin-active.js",
+      "PackagePath": "staticwebassets\\js\\touchspin\\touchspin-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\tree-line\\jstree.active.js",
+      "PackagePath": "staticwebassets\\js\\tree-line\\jstree.active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\tree-line\\jstree.min.js",
+      "PackagePath": "staticwebassets\\js\\tree-line\\jstree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\vendor\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\wizard\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\js\\wizard\\jquery.steps.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\wizard\\steps-active.js",
+      "PackagePath": "staticwebassets\\js\\wizard\\steps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Assignment2\\Assignment2\\wwwroot\\pdf\\mamunur.pdf",
+      "PackagePath": "staticwebassets\\pdf\\mamunur.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Assignment2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Assignment2.props",
+      "PackagePath": "build\\Assignment2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment2.props",
+      "PackagePath": "buildMultiTargeting\\Assignment2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Assignment2.props",
+      "PackagePath": "buildTransitive\\Assignment2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
