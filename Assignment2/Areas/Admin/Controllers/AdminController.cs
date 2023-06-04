@@ -9,6 +9,8 @@ namespace Assignment2.Areas.Admin.Controllers
         {
             return View();
         }
+
+        //CATEGORY
         public IActionResult Category()
         {
             return View();
@@ -21,6 +23,8 @@ namespace Assignment2.Areas.Admin.Controllers
         {
             return View();
         }
+
+        //MANAGER
         public IActionResult Manager()
         {
             return View();
@@ -30,6 +34,24 @@ namespace Assignment2.Areas.Admin.Controllers
             return View();
         }
         public IActionResult EditManager()
+        {
+            return View();
+        }
+
+        //PRODUCT
+        public IActionResult Product()
+        {
+            return View();
+        }
+        public IActionResult AddProduct()
+        {
+            return View();
+        }
+        public IActionResult EditProduct()
+        {
+            return View();
+        }
+        public IActionResult ProductDetail()
         {
             return View();
         }
